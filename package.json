@@ -1,0 +1,12 @@
+{
+  "name": "danjuls-twitfeed",
+  "version": "0.0.1",
+  "dependencies": {
+    "twit": "~1.1.11",
+    "oauth": "~0.9.9"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
