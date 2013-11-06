@@ -4,12 +4,6 @@ heroku-twitter
 Herouku app to handle twitterfeed form Social Feed https://github.com/mikaelbr/SocialFeed.js
 
 ## Explanation
-This is based on the example found at https://github.com/mikaelbr/SocialFeed.js/tree/master/example/Twitter and as pointed out in exampleheroku-twitter
-==============
-
-Herouku app to handle twitterfeed form Social Feed https://github.com/mikaelbr/SocialFeed.js
-
-## Explanation
 This is based on the example found at https://github.com/mikaelbr/SocialFeed.js/tree/master/example/Twitter and as pointed out in example, should be used with a heroku app. 
 
 Installation
