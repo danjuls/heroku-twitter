@@ -1,7 +1,7 @@
 heroku-twitter
 ==============
 
-Herouku app to handle twitterfeed form Social Feed https://github.com/mikaelbr/SocialFeed.js
+Heroku app to handle twitterfeed for Social Feed https://github.com/mikaelbr/SocialFeed.js
 
 ## Explanation
 This is based on the example found at https://github.com/mikaelbr/SocialFeed.js/tree/master/example/Twitter and as pointed out in example, should be used with a heroku app. 
@@ -9,7 +9,7 @@ This is based on the example found at https://github.com/mikaelbr/SocialFeed.js/
 Installation
 --------------
 Create you heroku app at https://id.heroku.com/ and download the git repo.
-Copy the files from this repo into your herok app repo and edit *web.js* and add consumer_key, consumer_secret, access_toke, access_token_secret and username you got when you registred an application from https://dev.twitter.com/
+Copy the files from this repo into your heroku app repo and edit *web.js* and add consumer_key, consumer_secret, access_toke, access_token_secret and username you got when you registred an application from https://dev.twitter.com/
 ```sh
  , T = new Twit({
       consumer_key:         ''
